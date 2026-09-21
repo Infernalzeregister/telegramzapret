@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Infernalzeregister/telegramzapret d41b3343439d
